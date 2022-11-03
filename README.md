@@ -35,10 +35,10 @@ Karl-Patric Rohi - TAK-21<br>
   
   <br><br>
 <b>TÖÖVAHENDID:</b>
- - Github
+ - Github (projekti haldamine)
  - Figma (kodulehe prototüübi koostamine)
  - Slack (suhtluskanal)
- - Visual Studio Code
+ - Visual Studio Code (programmeerimine)
  - ametikool.ee (info ja piltide saamine)
  <br>
  
