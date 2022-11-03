@@ -110,15 +110,14 @@ p {
     .index-routes {
         flex-direction: column;
     }
-
     .i-paragraph {
         width: 60%;
+        text-align: left;
     }
 
     .i-item {
         width: 400px;
     }
-
     button{
         display: none;
     }
