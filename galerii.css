@@ -6,22 +6,20 @@
 }
 body{
  background-color: #FFEAC4;
-}
-.container{
-    padding: 5px 0.5%;
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  border-bottom: solid 1px black;
 }
 
 .logo{
-    width: 165px;
+  max-width: 250px;
+  height: 200px;
 }
-
-
 
 nav ul li{
     display: inline-block;
@@ -35,19 +33,18 @@ nav ul li{
     position: relative;
 }
 button {
-    margin-left: auto;
-    margin-top: 0px;
-    margin-right: auto;
-    text-align: left;
-    height: auto;
-    padding: 9px 25px;
-    background-color: rgb(252, 80, 0);
-    border: none;
-    border-radius: 50px;
-    cursor: pointer; 
-    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F68121;
+    width: 90px;
+    border: solid #F68121 1px;
+    border-radius: 30px;
 }
-
+button:hover {
+  background-color: #ffb375;
+  transition: background-color 0.5s;
+}
 
 nav ul li a:hover::after{
     width: 100%;
@@ -60,7 +57,7 @@ nav ul li a:hover::after{
     box-sizing: border-box;
 }
 .box{
-    max-width: 90%;
+    max-width: 80%;
     height: auto;
     margin: auto;
     background: #FFEAC4;
@@ -143,10 +140,10 @@ button{
 .menu__box {
   display: block;
   position: fixed;
-  top: -80px;
+  top: -40px;
   right: -100%;
   width: 300px;
-  height: 35%;
+  height: 31%;
   margin: 0;
   padding: 80px 0;
   list-style: none;
@@ -159,7 +156,7 @@ button{
   display: block;
   padding: 12px 24px;
   color: #333;
-  font-family: 'Roboto', sans-serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 20px;
   font-weight: 600;
   text-decoration: none;
