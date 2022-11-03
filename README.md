@@ -6,12 +6,12 @@ Luua Ametikoolile 100nda sünnipäeva puhul portfoolio.
 
 <b>GRUPI LIIKMED:</b><br>
 Tene Tiitma - TA-22<br>
-Kertu Beljäev - TAk-22<br>
+Kertu Beljäev - TAK-22<br>
 Kersti Kuusksalu - TA-22<br>
-Karl Rüütel - TAk-22<br>
-Kristjan Lessel - TAk-21<br>
-Kaspar Vakkum - TAk-21<br>
-Karl-Patric Rohi - TAk-21<br>
+Karl Rüütel - TAK-22<br>
+Kristjan Lessel - TAK-21<br>
+Kaspar Vakkum - TAK-21<br>
+Karl-Patric Rohi - TAK-21<br>
 
 
 <br>
