@@ -51,7 +51,7 @@ Karl-Patric Rohi - TAK-21<br>
  <br>Kertu Beljäev -
  <br>Kersti Kuusksalu -
  <br>Karl Rüütel -
- <br>Kaspar Vakkum -
+ <br>Kaspar Vakkum - Oskan oma oskuseid järgmistes projektites ka kasutada.
  <br>Karl Patric Rohi -
  <br>Kristjan Lessel -
  <br>
@@ -62,7 +62,7 @@ Karl-Patric Rohi - TAK-21<br>
  <br>Kertu Beljäev -
  <br>Kersti Kuusksalu -
  <br>Karl Rüütel -
- <br>Kaspar Vakkum -
+ <br>Kaspar Vakkum - Ma õppisin teisi juhendama ja aitama.
  <br>Karl Patric Rohi -
  <br>Kristjan Lessel -
  <br>
@@ -73,7 +73,7 @@ Karl-Patric Rohi - TAK-21<br>
  <br>Kertu Beljäev -
  <br>Kersti Kuusksalu -
  <br>Karl Rüütel -
- <br>Kaspar Vakkum -
+ <br>Kaspar Vakkum - Ma arendasin oma JavaScripti ja CSSi oskuseid veits.
  <br>Karl Patric Rohi -
  <br>Kristjan Lessel -
  
