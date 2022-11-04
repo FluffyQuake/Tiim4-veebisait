@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins',sans-serif;
     box-sizing: border-box;
 }
 body{
@@ -15,7 +14,10 @@ nav{
   flex-wrap: wrap;
   border-bottom: solid 1px black;
 }
-
+.Galerii-text{
+  width: 100px;
+  margin: auto;
+}
 .logo{
   max-width: 250px;
   height: 200px;
@@ -57,7 +59,7 @@ nav ul li a:hover::after{
     box-sizing: border-box;
 }
 .box{
-    max-width: 80%;
+    max-width: 65%;
     height: auto;
     margin: auto;
     background: #FFEAC4;
